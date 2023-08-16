@@ -27,17 +27,17 @@ Obtenemos Datasets con datos como el valor actual, la capitalzación en el merca
 
 ### **Conclusiones**
 
-En un apartado de distribución por precio de cada criptomoneda, podemos apreciar que la media oscila entre USD $0 y USD $1. Teniendo como valores atípicos, algunas monedas que oscilan entre USD $500 y USD $1500, asi como otras pocas entre USD $28000 y USD $29200.
+- En un apartado de distribución por precio de cada criptomoneda, podemos apreciar que la media oscila entre USD $0 y USD $1. Teniendo como valores atípicos, algunas monedas que oscilan entre USD $500 y USD $1500, asi como otras pocas entre USD $28000 y USD $29200.
 
 ![Descripción de la imágen](src/Distribución%20de%20Precios%20Actuales%20de%20Criptomonedas.png)
 
-Podemos apreciar outliers en la Capitalización de Mercado de las criptomonedas. 'Bitcoin' es la moneda que supera los estándares con creces, seguida de 'Ethereum' aunque con una capitalización bastante menor a ésta.
+- Podemos apreciar outliers en la Capitalización de Mercado de las criptomonedas. 'Bitcoin' es la moneda que supera los estándares con creces, seguida de 'Ethereum' aunque con una capitalización bastante menor a ésta.
 
 ![Descripción de la imágen](src/Distribución%20de%20Capitalización%20de%20Mercado%20de%20Criptomonedas.png)
 
 Cabe mencionarse que el estándar de la Capitalización de Mercado de las criptomonedas seleccionadas, no supera el 10%.
 
-Luego podemos ver que el 'Bitcoin' posee el 59.4% de la capitalización total del mercado actual de las criptomonedas seleccionadas, posicionándola como la más utilizada. La siguen 'Ethereum' con un 23%, Tether con un 8.7%, XRP con un 3.3%, USD Coin con un 2.7%, Cardano con un 1% y el resto de las seleccionadas ocupando un 1.9% en su conjunto.
+- Luego podemos ver que el 'Bitcoin' posee el 59.4% de la capitalización total del mercado actual de las criptomonedas seleccionadas, posicionándola como la más utilizada. La siguen 'Ethereum' con un 23%, Tether con un 8.7%, XRP con un 3.3%, USD Coin con un 2.7%, Cardano con un 1% y el resto de las seleccionadas ocupando un 1.9% en su conjunto.
 
 ![Descripción de la imágen](src/Porcentaje%20de%20Capitalización%20de%20Mercado%20por%20Moneda.png)
 
@@ -51,6 +51,6 @@ Luego podemos ver que el 'Bitcoin' posee el 59.4% de la capitalización total de
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/alantilca@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:prismapsy@gmail.com)
+[![Email](https://img.shields.io/badge/prismapsy@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:prismapsy@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/Alan_Tilca-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-leonel-ponce-duarte-b3244a235/)
+[![LinkedIn](https://img.shields.io/badge/Ponce_Duarte_Matias_Leonel-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/matias-leonel-ponce-duarte-b3244a235/)
